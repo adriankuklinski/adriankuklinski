@@ -1,16 +1,15 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankuklinski&langs_count=8&layout=compact&theme=rose_pine)](https://github.com/adriankuklinski)
+### Hi there 👋
 
-<!--
-**adriankuklinski/adriankuklinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adrian. Currently obsessing over Rust, Bevy, wgpu.rs and neovim!
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats-3dyjbj4fr-adriankuklinski.vercel.app/api/top-langs/?username=adriankuklinski&layout=compact&langs_count=8&hide_title=true&hide_border=true)](https://github.com/adriankuklinski)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+    <summary>:zap: Recent Activity</summary>
+    <br/>
+    <img align="left" alt="Commit Count" src="https://github-readme-stats-3dyjbj4fr-adriankuklinski.vercel.app/api?username=adriankuklinski&count_private=true&hide=contribs,prs,stars,issues&hide_border=true&hide_title=true&hide_rank=true"
+    />
+    <!--START_SECTION:activity-->
+</details>
+
+
